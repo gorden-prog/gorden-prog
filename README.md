@@ -7,6 +7,6 @@ My personal projects focusing on Python and Java.
 •   Web Scraping, Data Analysis, Async, Telegram Bots, APIs
 •   See project folders for details.
 
-## Java
+### Java
 
 •   See project folders for details.

@@ -9,4 +9,8 @@ My personal projects focusing on Python and Java.
 
 ### Java
 
-•   See project folders for details. (Nothing for now)
+•   BackEnd
+
+### JavaScript
+
+•   FrontEnd
